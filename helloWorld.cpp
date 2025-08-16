@@ -1,8 +1,7 @@
 #include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main(){
-	cout << "Hello World \n Vivek";
-	cout << "master";
+	cout << "Hello World";
 }
